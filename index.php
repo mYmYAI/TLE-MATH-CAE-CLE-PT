@@ -10,7 +10,7 @@
 <center>
 <table border=5 bgcolor=lightgray wigth=75%>
 <th><a href="Math.html">Math</a></th>
-<th><a href="CAE.html">CAE</a></th>
+<th><a href="CAE (1).html">CAE</a></th>
 <th><a href="CLE.html">CLE</a></th>
 <th><a href="TLE.html">TLE</a></th>
 </table>
